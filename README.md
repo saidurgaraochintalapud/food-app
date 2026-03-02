@@ -81,6 +81,10 @@ http://localhost:8080
 
 ---
 
+*Out Put
+<img width="640" height="292" alt="image" src="https://github.com/user-attachments/assets/2325ce53-ae06-4e57-9a2a-b8bc48376711" />
+
+
 ## 🎯 Learning Outcomes
 
 - Understood MVC architecture
